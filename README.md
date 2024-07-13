@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thithiksha-Sri
-- 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning BE Computer Science and Engineering
+- 👀 I’m have a passion for Web Development and interest in learning new technologies
+- 🌱 I’m currently pursuing Final year in BE Computer Science and Engineering at Dr.Mahalingam College of Engineering and Technology 
 - 💞️ My hobbies are Dancing,Reading Books
 
 
